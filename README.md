@@ -14,7 +14,7 @@ git clone https://github.com/RGaneeva/02_Ft_printf-School21.git
 then
 
 | command | result |
-|----:|:----|
+|:----|:----|
 | make | compile ft_printf library |
 | make clean | clean .o |
 | make fclean | clean .o and .a |
